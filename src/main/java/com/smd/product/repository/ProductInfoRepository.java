@@ -1,4 +1,4 @@
-package com.smd.product.repositry;
+package com.smd.product.repository;
 
 import com.smd.product.bean.ProductInfo;
 import org.springframework.data.jpa.repository.JpaRepository;

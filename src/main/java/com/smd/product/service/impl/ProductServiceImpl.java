@@ -2,7 +2,7 @@ package com.smd.product.service.impl;
 
 import com.smd.product.bean.ProductInfo;
 import com.smd.product.enums.ProductStatusEnum;
-import com.smd.product.repositry.ProductInfoRepository;
+import com.smd.product.repository.ProductInfoRepository;
 import com.smd.product.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,7 +1,7 @@
 package com.smd.product.service.impl;
 
 import com.smd.product.bean.ProductCategory;
-import com.smd.product.repositry.ProductCategoryRepository;
+import com.smd.product.repository.ProductCategoryRepository;
 import com.smd.product.service.CategotyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
